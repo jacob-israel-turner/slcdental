@@ -1,0 +1,64 @@
+body {
+	width: 100%;
+	background-color: #004e90 ;
+	margin: 0px;
+}
+
+.bar {
+	height: 27px;
+	width: 100%;
+}
+
+header p {
+	font-family: helvetica, arial, sans-serif;
+	font-size: .7rem;
+	color: #ccc;
+	text-align: center;
+	margin: 0px;
+	padding: 7px;
+}
+
+.bottom.bar {
+	background-color: #004883;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #368bcc;
+    margin: 0px;
+    padding: 0;
+}
+
+.share {
+	height: 27px;
+	font-size: 1.3rem;
+	float: right;
+}
+
+.share i {
+	padding: 4px;
+	color: #07184c;
+}
+
+.fa:hover {
+	background-color: #fff;
+	border-radius: 15px;
+}
+
+.fa-tumblr-square:hover {
+	color: #2c4762;
+}
+
+.fa-facebook-square:hover {
+	color: #47639e;
+}
+
+.fa-youtube-square:hover {
+	color: #C71B1F;
+}
+
+.fa-linkedin-square:hover {
+	color: #007BB6;
+}
